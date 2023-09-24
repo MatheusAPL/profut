@@ -1,3 +1,14 @@
+# ProFut ⚽
+## Team Eniac :
+Carlos andre Gomes da Silva Junior <br>
+José Carlos da Silva de Figueroa <br> 
+Márcio Henrique dos Santos Silva <br>
+Matheus felipe Moreira Pereira <br>
+Wictor isaac Gomes da Silva <br>
+<br>
+<h1><img src= "https://user-images.githubusercontent.com/101275023/230258920-f57117e0-c26f-41b4-8b78-57cfe49e54ed.jpg" height="164" width="164" /> </h1>
+<br>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
