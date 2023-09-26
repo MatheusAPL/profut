@@ -8,10 +8,12 @@ const UserProfile = () => {
     
     const user = {
         name: 'Matheus felipe',
-        email: 'Matheus888@exmplo.com',
         idade: 25,
         altura: 1.93,
         Pedominante: 'Esquerdo',
+        Posiçao: 'Atacante',
+        nascionalidade: 'Brasileira',
+
 
 
     };
@@ -22,7 +24,7 @@ const UserProfile = () => {
         <div>
             <h1>Detalhamento de Jogador</h1>
             <Profile user={user} />
-
+            
         
         </div>
     );
